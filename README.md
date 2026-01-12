@@ -28,3 +28,13 @@ Site criado para oferecer aulas de matemática online por um preço acessível.
 
 ## 👨‍🏫 Autor
 Luan Gabriel
+## 💬 Contato pelo WhatsApp
+O site possui um botão flutuante do WhatsApp no canto da tela.
+
+📲 O aluno pode clicar no botão e falar diretamente comigo para:
+- Tirar dúvidas
+- Agendar aulas
+- Combinar horários
+- Fazer o pagamento
+
+Atendimento rápido e direto.
