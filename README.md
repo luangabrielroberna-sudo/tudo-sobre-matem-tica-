@@ -1,4 +1,4 @@
-# tudo-sobre-matem-tica-
+# aulas ao vivo
 tudo sobre matemática você encontra aqui
 # 📘 Aulas de Matemática Online
 
@@ -23,12 +23,8 @@ Site criado para oferecer aulas de matemática online por um preço acessível.
 3. Pagamento via Pix
 4. Aula online ao vivo
 
-## 🌐 Acesse o site
-👉 https://SEUNOME.github.io/aulas-matematica
-
-## 🛠️ Tecnologias usadas
-- HTML5
-- CSS3
+## 🌐 envie mensagem aqui no WhatsApp 
+👉 +55 27 992331241
 
 ## 👨‍🏫 Autor
 Luan Gabriel
