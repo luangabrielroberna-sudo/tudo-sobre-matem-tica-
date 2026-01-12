@@ -1,40 +1,40 @@
-# aulas ao vivo
-tudo sobre matemática você encontra aqui
-# 📘 Aulas de Matemática Online
+# 📘 Aulas de Matemática Online por apenas R$10
 
-Site criado para oferecer aulas de matemática online por um preço acessível.
+Está com dificuldade em matemática?  
+Aqui você aprende de forma **simples, rápida e sem complicação**, com aulas online acessíveis para qualquer aluno.
 
-## 📚 Conteúdos ensinados
-- Matemática básica
-- Frações e porcentagem
-- Geometria
-- Equações e funções
-- Reforço escolar
-- Ajuda para provas
+🎯 Ideal para quem quer **melhorar notas**, **entender a matéria** e **passar nas provas**.
 
-## 💰 Preço
-- R$ 10,00 por aula
-- Aulas online
-- Horários combinados
+---
+
+## ✅ O que você vai aprender
+✔️ Matemática básica  
+✔️ Frações e porcentagem  
+✔️ Geometria  
+✔️ Equações e funções  
+✔️ Reforço escolar  
+✔️ Ajuda com provas, trabalhos e exercícios  
+
+Aulas explicadas passo a passo, no seu ritmo.
+
+---
+
+## 💰 Preço acessível
+🔥 **Apenas R$ 10,00 por aula**
+
+- Aulas online ao vivo  
+- Horários combinados  
+- Conteúdo personalizado  
+- Pagamento via Pix  
+
+Qualidade + preço justo.
+
+---
 
 ## 📲 Como funciona
-1. O aluno entra em contato pelo WhatsApp
-2. Combinamos o dia e horário
-3. Pagamento via Pix
-4. Aula online ao vivo
-
-## 🌐 envie mensagem aqui no WhatsApp 
-👉 +55 27 992331241
-
-## 👨‍🏫 Autor
-Luan Gabriel
-## 💬 Contato pelo WhatsApp
-O site possui um botão flutuante do WhatsApp no canto da tela.
-
-📲 O aluno pode clicar no botão e falar diretamente comigo para:
-- Tirar dúvidas
-- Agendar aulas
-- Combinar horários
-- Fazer o pagamento
-
-Atendimento rápido e direto.
+1. Você acessa o site  
+2. Preenche o formulário ou clica no botão do WhatsApp  
+3. Entramos em contato rapidamente  
+4. Combinamos o horário  
+5. Você pag
+6. chame nesse número +55 2799233141
